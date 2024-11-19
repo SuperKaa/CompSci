@@ -43,3 +43,7 @@ GambleSimulator.py 13/11/2024 [Click Here](GambleSimulator/GambleSimulator.py)
 
 > [!NOTE]
 WordJumble.py 19/11/2024 [Click Here](WordJumble.py)
+
+
+> [!NOTE]
+CurrencyCoverter.py 19/11/2024 [Click Here](CurrencyConverter.py)
